@@ -3,10 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8505ff&size=35&center=true&vCenter=true&width=1000&lines=Oii,+Meu+Nome+e+Guilherme+Henrique;Tenho+22+Anos+;Sou+de+São+Paulo,+SP;Estudando+Python;+:%29)](https://git.io/typing-svg)
 
 
-<div align="center">
-  <a href="https://github.com/guilhermeCAT">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermeCAT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeCAT&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCAT&show_icons=true&count_private=true&hide_border=true&title_color=8505ff&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCAT&layout=compact&hide_border=true&title_color=8505ff&text_color=00bfbf&bg_color=0d1117" />
+</div>
     
 </div>
 <div style="display: inline_block"><br>
